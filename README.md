@@ -25,38 +25,37 @@ A brief description of your web development project.
 
 In this section, list and describe the features or functionality that you are working on. You can use checkboxes to track the progress of each feature.
 
-- [ ] Feature 1 Yayomi Premathilaka: Login/signup to the website.
+- [ ] Feature 1 (Yayomi Premathilaka): Login/signup to the website.
 - [ ] Feature 2 (Soorya Rasandi): Package selection and make reservation.
-- [ ] Feature 3 (Ruwani Rangika): Add Delete facilities.
+- [ ] Feature 3 (Ruwani Rangika): Add Delete images to the image gallery.
 - [ ] Feature 4 (Ravindu Dhananjaya): Customer review and ratings.
 
 > Add features as required. 
 
 ### Feature 1
 Create login/sign up page for external users.After that allow to do reservations.
-Create login for admin and allow to change the facilities.
+The records will be saved in the database.
  
 
-Include more detailed information about Feature 1 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
 
 ### Feature 2
-After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation form.
+After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
 
 
-Include more detailed information about Feature 2 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
 
 ### Feature 3
 
-Allow the external user to keep a record on customer ratings.
+Create a admin login to the website.Then admin can add and delete images from the website.
 
-Include more detailed information about Feature 3 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
----
+Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
 
 ### Feature 4
 
-After successfull login by the admin add delete facilities types to the website.
+Users can make a ratings for the villa.This details will be recorded in a data base.
 
-Include more detailed information about Feature 3 here. Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
 
 
 
