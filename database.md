@@ -5,3 +5,10 @@ CREATE TABLE `user_register` (
   `email` varchar(50) NOT NULL,
   `password` varchar(50) NOT NULL
 )
+
+CREATE TABLE `reviews` (
+  `review_id` int NOT NULL,
+  `user_id` int NOT NULL,
+  `content` varchar(200) NOT NULL,
+  `rating` varchar(10) NOT NULL
+) 
