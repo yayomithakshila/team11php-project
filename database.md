@@ -16,3 +16,11 @@ CREATE TABLE `reviews` (
   `content` varchar(200) NOT NULL,
   `rating` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+
+CREATE TABLE `reservation` (
+  `reservation_id` int NOT NULL,
+  `user_id` int NOT NULL,
+  `reservation_date` date NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
