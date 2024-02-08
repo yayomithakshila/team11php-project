@@ -19,3 +19,19 @@ CREATE TABLE `reservation` (
   `user_id` int NOT NULL,
   `reservation_date` date NOT NULL
 )
+
+
+
+
+CREATE TABLE `admin` (
+  `admin_id` int NOT NULL,
+  `user_name` varchar(50) NOT NULL,
+  `password` varchar(50) NOT NULL
+)
+
+CREATE TABLE `image_gallery` (
+  `image_id` int NOT NULL,
+  `file_name` varchar(200) NOT NULL,
+  `title` varchar(50) NOT NULL,
+  `admin_id` int NOT NULL
+)
