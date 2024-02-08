@@ -63,8 +63,8 @@ Provide links to related code files (github) & link to the feature (shell.hamk.f
 
 List the database tables that are part of your project. 
 
-- Table 1 (Created By): Table Name 
-- Table 2 (Created By): Table Name 
+- Table 1 (Created By): Yayomi Premathilaka Table Name : user_register 
+- Table 2 (Created By): Ravindu Dhananjaya Table Name : reviews
 - Table 3 (Created By): Table Name 
 
 > Include the ER Diagram of the database. 
