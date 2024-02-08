@@ -10,4 +10,9 @@ CREATE TABLE `user_register` (
 
 
 
-66+
+CREATE TABLE `reviews` (
+  `review_id` int NOT NULL,
+  `user_id` int NOT NULL,
+  `content` varchar(200) NOT NULL,
+  `rating` varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
