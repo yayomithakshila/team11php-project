@@ -65,7 +65,10 @@ List the database tables that are part of your project.
 
 - Table 1 (Created By): Yayomi Premathilaka Table Name : user_register 
 - Table 2 (Created By): Ravindu Dhananjaya Table Name : reviews
-- Table 3 (Created By): Table Name 
+- Table 3 (Created By): Soorya rasandi  Table Name : reservation
+- Table 3 (Created By): Ruwani Rangika  Table Name : admin
+- Table 3 (Created By): Ruwani Rangika  Table Name : image_gallery
+
 
 > Include the ER Diagram of the database. 
 https://lucid.app/lucidchart/50aa7a72-83ca-4c3e-b2cf-97cd7a862d45/edit?viewport_loc=-501%2C-457%2C2091%2C1025%2C0_0&invitationId=inv_30cd2de0-b520-4180-834f-d8aba6811966
