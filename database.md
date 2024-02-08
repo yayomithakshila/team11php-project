@@ -16,3 +16,21 @@ CREATE TABLE `reviews` (
   `content` varchar(200) NOT NULL,
   `rating` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+Table3 Admin register-Ruwani Rangika
+
+CREATE TABLE `admin` (
+  `admin_id` int NOT NULL,
+  `user_name` varchar(50) NOT NULL,
+  `password` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+Table4 Admin register-Ruwani Rangika
+
+CREATE TABLE `image_gallery` (
+  `image_id` int NOT NULL,
+  `file_name` varchar(200) NOT NULL,
+  `title` varchar(50) NOT NULL,
+  `admin_id` int NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
