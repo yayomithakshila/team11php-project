@@ -83,7 +83,7 @@ List the database tables that are part of your project.
 
 
 
-Link - https://lucid.app/lucidchart/50aa7a72-83ca-4c3e-b2cf-97cd7a862d45/edit?viewport_loc=-501%2C-457%2C2091%2C1025%2C0_0&invitationId=inv_30cd2de0-b520-4180-834f-d8aba6811966
+
 
 
 ---
