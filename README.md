@@ -9,9 +9,9 @@
 
 - Below, you will find an example to help you get started. Feel free to customize it to match your specific requirements and needs.
 
-# Project Name - Team Number
+# Villa Website Project - Team 11
 
-A brief description of your web development project.
+Our project is about a small villa in costal area Hikkaduwa,SriLanka.
 
 ## Table of Contents
 - [Features](#features)
