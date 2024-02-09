@@ -35,27 +35,33 @@ In this section, list and describe the features or functionality that you are wo
 ### Feature 1
 Create login/sign up page for external users.After that allow to do reservations.
 The records will be saved in the database.
- 
 
-Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+Link (github- code files) -
+Link (shell.hamk.fi) -
+
+
 
 ### Feature 2
 After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
 
+Link (github- code files) -
+Link (shell.hamk.fi) -
 
-Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
 
 ### Feature 3
 
 Create a admin login to the website.Then admin can add and delete images from the website.
 
-Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+
+Link (github- code files) -
+Link (shell.hamk.fi) -
 
 ### Feature 4
 
 Users can make a ratings for the villa.This details will be recorded in a data base.
 
-Provide links to related code files (github) & link to the feature (shell.hamk.fi) .
+Link (github- code files) -
+Link (shell.hamk.fi) -
 
 
 
@@ -63,15 +69,22 @@ Provide links to related code files (github) & link to the feature (shell.hamk.f
 
 List the database tables that are part of your project. 
 
-- Table 1 (Created By): Yayomi Premathilaka Table Name : user_register 
-- Table 2 (Created By): Ravindu Dhananjaya Table Name : reviews
-- Table 3 (Created By): Soorya rasandi  Table Name : reservation
-- Table 3 (Created By): Ruwani Rangika  Table Name : admin
-- Table 3 (Created By): Ruwani Rangika  Table Name : image_gallery
+- Table 1 : Yayomi Premathilaka Table Name : user_register 
+- Table 2 : Ravindu Dhananjaya Table Name : reviews
+- Table 3 : Soorya rasandi  Table Name : reservation
+- Table 4 : Ruwani Rangika  Table Name : admin
+- Table 5 : Ruwani Rangika  Table Name : image_gallery
 
 
-> Include the ER Diagram of the database. 
-https://lucid.app/lucidchart/50aa7a72-83ca-4c3e-b2cf-97cd7a862d45/edit?viewport_loc=-501%2C-457%2C2091%2C1025%2C0_0&invitationId=inv_30cd2de0-b520-4180-834f-d8aba6811966
+>  ER Diagram of the database. 
+
+![alt text](./image/ER.png)
+
+
+
+
+Link - https://lucid.app/lucidchart/50aa7a72-83ca-4c3e-b2cf-97cd7a862d45/edit?viewport_loc=-501%2C-457%2C2091%2C1025%2C0_0&invitationId=inv_30cd2de0-b520-4180-834f-d8aba6811966
+
 
 ---
 

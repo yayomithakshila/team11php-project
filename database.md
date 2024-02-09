@@ -1,3 +1,5 @@
+Table 1 : Yayomi Premathilaka  Table Name : user_register 
+
 CREATE TABLE `user_register` (
   `user_id` int NOT NULL,
   `first_name` varchar(50) NOT NULL,
@@ -5,6 +7,8 @@ CREATE TABLE `user_register` (
   `email` varchar(50) NOT NULL,
   `password` varchar(50) NOT NULL
 )
+
+Table 2 : Ravindu Dhananjaya  Table Name : reviews
 
 CREATE TABLE `reviews` (
   `review_id` int NOT NULL,
@@ -14,6 +18,8 @@ CREATE TABLE `reviews` (
 ) 
 
 
+Table 3 : Soorya rasandi   Table Name : reservation
+
 CREATE TABLE `reservation` (
   `reservation_id` int NOT NULL,
   `user_id` int NOT NULL,
@@ -21,13 +27,16 @@ CREATE TABLE `reservation` (
 )
 
 
-
+Table 4 : Ruwani Rangika  Table Name : admin
 
 CREATE TABLE `admin` (
   `admin_id` int NOT NULL,
   `user_name` varchar(50) NOT NULL,
   `password` varchar(50) NOT NULL
 )
+
+
+Table 5 : Ruwani Rangika  Table Name : image_gallery
 
 CREATE TABLE `image_gallery` (
   `image_id` int NOT NULL,
