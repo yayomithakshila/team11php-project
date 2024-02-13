@@ -78,8 +78,8 @@ List the database tables that are part of your project.
 
 >  ER Diagram of the database. 
 
-![alt text](./image/er.png)
 
+![alt text](./image/er.png)
 
 
 
