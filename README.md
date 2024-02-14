@@ -68,6 +68,8 @@ Link (shell.hamk.fi) -
 ### Feature 4
 
 Users can make a ratings for the villa.This details will be recorded in a data base.
+Link (github- code files) -
+- [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 
 
 ## Database Tables
