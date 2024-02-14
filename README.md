@@ -33,10 +33,14 @@ In this section, list and describe the features or functionality that you are wo
 > Add features as required. 
 
 ### Feature 1
-Create login/sign up page for external users.After that allow to do reservations.
+Create login/logout/sign up page for external users.After that allow to do reservations.
 The records will be saved in the database.
 
 Link (github- code files) -
+login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
+logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
+sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
+
 Link (shell.hamk.fi) -
 
 
@@ -62,7 +66,7 @@ Link (shell.hamk.fi) -
 
 Users can make a ratings for the villa.This details will be recorded in a data base.
 
-Link (github- code files) -
+Link (github- code files) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 Link (shell.hamk.fi) -
 
 
