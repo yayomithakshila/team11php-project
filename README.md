@@ -37,9 +37,9 @@ Create login/logout/sign up page for external users.After that allow to do reser
 The records will be saved in the database.
 
 Link (github- code files) -
-login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
-logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
-sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
+- [ ] login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
+- [ ] logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
+- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
 
 Link (shell.hamk.fi) -
 
@@ -60,15 +60,14 @@ Create a admin login to the website.Then admin can add and delete images from th
 
 
 Link (github- code files) -
+admin.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php
+admin_login.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php
+image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php
 Link (shell.hamk.fi) -
 
 ### Feature 4
 
 Users can make a ratings for the villa.This details will be recorded in a data base.
-
-Link (github- code files) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
-Link (shell.hamk.fi) -
-
 
 
 ## Database Tables
