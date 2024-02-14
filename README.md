@@ -49,7 +49,7 @@ Link (shell.hamk.fi) -
 After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
 
 Link (github- code files) -
-Reservation-https://github.com/yayomithakshila/team11php-project/blob/main/booking.php
+Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php
 
 Link (shell.hamk.fi) -
 
