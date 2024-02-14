@@ -25,9 +25,9 @@ Our project is about a small villa in costal area Hikkaduwa,SriLanka.
 
 In this section, list and describe the features or functionality that you are working on. You can use checkboxes to track the progress of each feature.
 
-- [ ] Feature 1 (Yayomi Premathilaka): Login/signup to the website.
+- [ ] Feature 1 (Yayomi Premathilaka): Login/Logout/signup to the website.
 - [ ] Feature 2 (Soorya Rasandi): Package selection and make reservations.
-- [ ] Feature 3 (Ruwani Rangika): Add Delete images to the image gallery.
+- [ ] Feature 3 (Ruwani Rangika): Add Delete images to the image gallery with admin.
 - [ ] Feature 4 (Ravindu Dhananjaya): Customer review and ratings.
 
 > Add features as required. 
