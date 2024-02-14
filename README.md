@@ -37,9 +37,9 @@ Create login/logout/sign up page for external users.After that allow to do reser
 The records will be saved in the database.
 
 Link (github- code files) -
-login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
-logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
-sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
+- [ ] login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
+- [ ] logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
+- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
 
 Link (shell.hamk.fi) -
 
