@@ -61,6 +61,10 @@ Link (shell.hamk.fi) -
 Users can make a ratings for the villa.This details will be recorded in a data base.
 
 Link (github- code files) -
+Admin.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php
+Admin_login.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php
+image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php
+
 Link (shell.hamk.fi) -
 
 
