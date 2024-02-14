@@ -1,5 +1,5 @@
 <?php 
- $title = "Fascilities page";
+ $title = "Facilities page";
  include 'layout-folder/header.php'; ?> 
 
         <div class="section text-left">
