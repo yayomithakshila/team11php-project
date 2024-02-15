@@ -30,7 +30,7 @@ In this section, list and describe the features or functionality that you are wo
 - [ ] Feature 3 (Ruwani Rangika): Add Delete images to the image gallery with admin.
 - [ ] Feature 4 (Ravindu Dhananjaya): Customer review and ratings.
 
-> Add features as required. 
+
 
 ### Feature 1
 Create login/logout/sign up page for external users.After that allow to do reservations.
