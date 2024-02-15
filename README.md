@@ -62,8 +62,7 @@ Link (shell.hamk.fi) -
 
 
 ### Feature 3
-
-Create a admin login to the website.Then admin can add and delete images from the website.
+Implements an admin login feature on a website, allows administrators to upload images to the website, Handles the image upload process, including file validation and storing file information in the database and enables administrators to delete images from the website. <br>
 
 
 Link (github- code files) -
@@ -77,6 +76,7 @@ Link (shell.hamk.fi) -
 
 ### Feature 4
 This feature to implements a user review feature on a website, allowing users to submit reviews and view past reviews. Upon submission, the user's name, review content, and rating are stored in a database. The page also displays past reviews in a table format. Overall, this feature enhances user engagement by allowing them to share their feedback and experiences.<br>
+
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 
