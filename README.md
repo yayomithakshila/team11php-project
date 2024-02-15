@@ -122,7 +122,7 @@ List any tables that you have created in the project work
 
 - Table 1 (Ruwani Rangika): Delete images | Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php | Link to the table (shell.hamk.fi).\
 
-- Table 2 (Ravindu Dhananjaya): review table | Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
+- Table 2 (Ravindu Dhananjaya): Past reviews table | Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
 
 
 
