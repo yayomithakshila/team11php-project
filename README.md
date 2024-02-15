@@ -55,13 +55,13 @@ After successfull login by the external user direct to package page and select t
 Link (github- code files) -
 - [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br>
 
-<<<<<<< HEAD
-Link (shell.hamk.fi) - 
-- [ ] http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/rates.php
 
-=======
-Link (shell.hamk.fi) - http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php
->>>>>>> 79623788bd9b538a681cf5899798f961f4197dc6
+Link (shell.hamk.fi) - 
+- [ ] http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/rates.php <br>
+
+
+Link (shell.hamk.fi) -  http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php
+
 
 ### Feature 3
 
