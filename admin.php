@@ -108,8 +108,7 @@ if ($result->num_rows > 0) {
                     
                     <th>image</th>
                    
-                    
-
+              
                 </tr>
             </thead>
             <tbody>";
@@ -132,16 +131,5 @@ if ($result->num_rows > 0) {
 // close the connection when done
 $conn->close();
 ?>
-
-
-
-
-
-
-
-
-
-
-
 
 <?php include 'layout-folder/footer.php'; ?>

@@ -129,8 +129,6 @@ function validateMessage(){
 }
 
 
-
-
 //event listerners for real time validation
 
 document.getElementById("name").addEventListener("input", validateName);
@@ -139,11 +137,6 @@ document.getElementById("message").addEventListener("input", validateMessage);
 
 
 </script>
-
-
-
-
-
 
 
                 </div>
