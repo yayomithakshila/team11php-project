@@ -108,8 +108,7 @@ if ($result->num_rows > 0) {
                     
                     <th>image</th>
                    
-                    
-
+              
                 </tr>
             </thead>
             <tbody>";
