@@ -73,6 +73,10 @@ Users can make a ratings for the villa.This details will be recorded in a data b
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 
+Link (shell.hamk.fi) -
+- [ ] Reviews - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php
+
+
 
 ## Database Tables
 
