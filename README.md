@@ -37,11 +37,15 @@ Create login/logout/sign up page for external users.After that allow to do reser
 The records will be saved in the database.
 
 Link (github- code files) -
-- [ ] login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
+- [ ] log-in - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
 - [ ] logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
-- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
+- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php <br>
 
 Link (shell.hamk.fi) -
+- [ ] log-in http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/login.php
+- [ ] logout - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/rates.php
+- [ ] sign in - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/register.php
+
 
 
 
@@ -49,9 +53,15 @@ Link (shell.hamk.fi) -
 After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
 
 Link (github- code files) -
-- [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php
+- [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br>
 
-Link (shell.hamk.fi) - http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php
+
+Link (shell.hamk.fi) - 
+- [ ] http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/rates.php <br>
+
+
+Link (shell.hamk.fi) -  http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php
+
 
 ### Feature 3
 
@@ -68,8 +78,7 @@ Link (shell.hamk.fi) -
 - [ ] image_remove.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/image_remove.php?id=4
 
 ### Feature 4
-This feature to implements a user review feature on a website, allowing users to submit reviews and view past reviews. Upon submission, the user's name, review content, and rating are stored in a database. The page also displays past reviews in a table format. Overall, this feature enhances user engagement by allowing them to share their feedback and experiences.
-
+This feature to implements a user review feature on a website, allowing users to submit reviews and view past reviews. Upon submission, the user's name, review content, and rating are stored in a database. The page also displays past reviews in a table format. Overall, this feature enhances user engagement by allowing them to share their feedback and experiences.<br>
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 
