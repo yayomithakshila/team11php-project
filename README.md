@@ -37,11 +37,15 @@ Create login/logout/sign up page for external users.After that allow to do reser
 The records will be saved in the database.
 
 Link (github- code files) -
-- [ ] login - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
+- [ ] log-in - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
 - [ ] logout - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php
-- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php
+- [ ] sign in - https://github.com/yayomithakshila/team11php-project/blob/main/register.php <br>
 
 Link (shell.hamk.fi) -
+- [ ] log-in http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/login.php
+- [ ] logout - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/rates.php
+- [ ] sign in - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/register.php
+
 
 
 
@@ -49,30 +53,36 @@ Link (shell.hamk.fi) -
 After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
 
 Link (github- code files) -
-- [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php
+- [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br>
 
-Link (shell.hamk.fi) - http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/rates.php
+
+Link (shell.hamk.fi) - 
+- [ ] http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php <br>
+
 
 
 ### Feature 3
-
-Create a admin login to the website.Then admin can add and delete images from the website.
+Implements an admin login feature on a website, allows administrators to upload images to the website, Handles the image upload process, including file validation and storing file information in the database and enables administrators to delete images from the website. <br>
 
 
 Link (github- code files) -
 - [ ] admin.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php
 - [ ] admin_login.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php
-- [ ] image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php
+- [ ] image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php <br>
 Link (shell.hamk.fi) -
 - [ ] admin.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin.php
 - [ ] admin_login.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin_login.php
 - [ ] image_remove.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/image_remove.php?id=4
 
 ### Feature 4
+This feature to implements a user review feature on a website, allowing users to submit reviews and view past reviews. Upon submission, the user's name, review content, and rating are stored in a database. The page also displays past reviews in a table format. Overall, this feature enhances user engagement by allowing them to share their feedback and experiences.<br>
 
-Users can make a ratings for the villa.This details will be recorded in a data base.
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
+
+Link (shell.hamk.fi) -
+- [ ] Reviews - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php
+
 
 
 ## Database Tables
@@ -114,7 +124,7 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 - Form 5: (Ruwani Rangika): Admin login <br>  Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php <br> Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin_login.php.  <br>  Validations Applied and purpose - The admin login is to perform the backend operations.The HTML form includes the required attribute for the "Username" and "Password" input fields to ensures that the user must enter data into these fields before submitting the form. The PHP script starts by checking if the form has been submitted (isset($_POST['submit'])), which is a form of server-side validation to ensure that the script is only executed upon form submission.
 
-- Form 6: (Ravindu Dhananjaya): reviews form <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - <br> Link to the form (shell.hamk.fi).  | - <br> Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
+- Form 6: (Ravindu Dhananjaya): reviews form <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - <br> Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php <br> Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
 
 
 
@@ -126,7 +136,7 @@ List any tables that you have created in the project work
 
 - Table 1 (Ruwani Rangika): Delete images <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php | Link to the table (shell.hamk.fi) - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin.php.
 
-- Table 2 (Ravindu Dhananjaya): Past reviews table <br> Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
+- Table 2 (Ravindu Dhananjaya): Past reviews table <br> Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php <br> Link to the table (shell.hamk.fi) - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php
 
 
 
