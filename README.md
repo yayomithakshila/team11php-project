@@ -68,8 +68,8 @@ Link (shell.hamk.fi) -
 - [ ] image_remove.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/image_remove.php?id=4
 
 ### Feature 4
+This feature to implements a user review feature on a website, allowing users to submit reviews and view past reviews. Upon submission, the user's name, review content, and rating are stored in a database. The page also displays past reviews in a table format. Overall, this feature enhances user engagement by allowing them to share their feedback and experiences.
 
-Users can make a ratings for the villa.This details will be recorded in a data base.
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
 
