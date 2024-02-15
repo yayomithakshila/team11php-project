@@ -63,9 +63,6 @@ if (isset($_POST['submit'])) {
         // Display a message if no results are found
         echo "<p>Please enter correct user ID</p>";
     }
-}else
-{
-    echo "error";
 }
 
 // Close the connection when done
