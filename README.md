@@ -64,6 +64,9 @@ Link (github- code files) -
 - [ ] admin_login.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php
 - [ ] image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php
 Link (shell.hamk.fi) -
+- [ ] admin.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin.php
+- [ ] admin_login.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin_login.php
+- [ ] image_remove.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/image_remove.php?id=4
 
 ### Feature 4
 
