@@ -109,7 +109,7 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 
 
-- Form 6: (Ravindu Dhananjaya): reviews form: Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
+- Form 6: (Ravindu Dhananjaya): reviews form: - [ ] Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - [ ] Link to the form (shell.hamk.fi).  | - [ ] Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
 
 
 ---
