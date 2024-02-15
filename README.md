@@ -55,9 +55,13 @@ After successfull login by the external user direct to package page and select t
 Link (github- code files) -
 - [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br>
 
+<<<<<<< HEAD
 Link (shell.hamk.fi) - 
 - [ ] http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/rates.php
 
+=======
+Link (shell.hamk.fi) - http://shell.hamk.fi/~soorya23000/FinalAssignment/Web%20Programming%202024/team11php-project/booking.php
+>>>>>>> 79623788bd9b538a681cf5899798f961f4197dc6
 
 ### Feature 3
 
@@ -78,6 +82,10 @@ Link (shell.hamk.fi) -
 Users can make a ratings for the villa.This details will be recorded in a data base.<br>
 Link (github- code files) -
 - [ ] Reviews - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php
+
+Link (shell.hamk.fi) -
+- [ ] Reviews - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php
+
 
 
 ## Database Tables
@@ -119,7 +127,7 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 - Form 5: (Ruwani Rangika): Admin login <br>  Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php <br> Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin_login.php.  <br>  Validations Applied and purpose - The admin login is to perform the backend operations.The HTML form includes the required attribute for the "Username" and "Password" input fields to ensures that the user must enter data into these fields before submitting the form. The PHP script starts by checking if the form has been submitted (isset($_POST['submit'])), which is a form of server-side validation to ensure that the script is only executed upon form submission.
 
-- Form 6: (Ravindu Dhananjaya): reviews form <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - <br> Link to the form (shell.hamk.fi).  | - <br> Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
+- Form 6: (Ravindu Dhananjaya): reviews form <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - <br> Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php <br> Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
 
 
 
@@ -131,7 +139,7 @@ List any tables that you have created in the project work
 
 - Table 1 (Ruwani Rangika): Delete images <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php | Link to the table (shell.hamk.fi).
 
-- Table 2 (Ravindu Dhananjaya): Past reviews table <br> Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
+- Table 2 (Ravindu Dhananjaya): Past reviews table <br> Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php <br> Link to the table (shell.hamk.fi) - http://shell.hamk.fi/~ravindu23000/aard_tasks/team11php-project/reviews.php
 
 
 
