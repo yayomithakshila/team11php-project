@@ -121,9 +121,9 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 List any tables that you have created in the project work
 
-- Table 1 (Ruwani Rangika): Delete images | Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php | Link to the table (shell.hamk.fi).\
+- Table 1 (Ruwani Rangika): Delete images <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php | Link to the table (shell.hamk.fi).
 
-- Table 2 (Ravindu Dhananjaya): Past reviews table | Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
+- Table 2 (Ravindu Dhananjaya): Past reviews table <br> Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
 
 
 
