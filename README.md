@@ -62,7 +62,7 @@ Create a admin login to the website.Then admin can add and delete images from th
 Link (github- code files) -
 - [ ] admin.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin.php
 - [ ] admin_login.php - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php
-- [ ] image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php
+- [ ] image_remove.php - https://github.com/yayomithakshila/team11php-project/blob/main/image_remove.php <br>
 Link (shell.hamk.fi) -
 - [ ] admin.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin.php
 - [ ] admin_login.php - http://shell.hamk.fi/~ruwani23000/Webprogramme/team11php-project/admin_login.php
