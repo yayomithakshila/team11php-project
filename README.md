@@ -33,8 +33,8 @@ In this section, list and describe the features or functionality that you are wo
 
 
 ### Feature 1
-Create login/logout/sign up page for external users.After that allow to do reservations.
-The records will be saved in the database.
+Creating a new account for registering and create login/logout/sign up page for external users.After that allow to do reservations.
+The records will be saved in the database. Redirects the user to the login page after the logout.
 
 Link (github- code files) -
 - [ ] log-in - https://github.com/yayomithakshila/team11php-project/blob/main/login.php
@@ -50,7 +50,7 @@ Link (shell.hamk.fi) -
 
 
 ### Feature 2
-After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database.
+Implements a reservation feature on a website, allowing users to book their stay. After successfull login by the external user direct to package page and select the prefered package.Then fill out the reservation form and complete the reservation.The records will be saved in the database. <br>
 
 Link (github- code files) -
 - [ ] Reservation - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br>
