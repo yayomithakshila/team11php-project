@@ -106,17 +106,12 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 - Form 3: (Yayomi Premathilaka): User Log out form <br>  Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php <br>  Link to the form (shell.hamk.fi).  <br>  Validations Applied and purpose - Logout form is to user to logout from the system. The php code is about session management and redirecting the user.
 
+- Form 4: (Soorya Rasandi): Reservation Form <br> Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php <br> Link to the form (shell.hamk.fi).  <br> Validations Applied and purpose - This form is for the user to confirm the booking after logging in to the system.User input name,email.check in date and message is saved in the database. This code is used javascript for the validation like Name Validation (validateName()):,Number of Guests Validation (validateNumGuests()):,Message Validation (validateMessage()):.
+
 - Form 5: (Ruwani Rangika): Admin login <br>  Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/admin_login.php <br> Link to the form (shell.hamk.fi).  <br>  Validations Applied and purpose - The admin login is to perform the backend operations.The HTML form includes the required attribute for the "Username" and "Password" input fields to ensures that the user must enter data into these fields before submitting the form. The PHP script starts by checking if the form has been submitted (isset($_POST['submit'])), which is a form of server-side validation to ensure that the script is only executed upon form submission.
 
-<<<<<<< HEAD
-- Form 4: (Soorya Rasandi): Reservation Form : Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - This form is for the user to confirm the booking after logging in to the system.User input name,email.check in date and message is saved in the database. This code is used javascript for the validation like Name Validation (validateName()):,Number of Guests Validation (validateNumGuests()):,Message Validation (validateMessage()):.
-
-- Form 6: (Ravindu Dhananjaya): reviews form: - [ ] Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - [ ] Link to the form (shell.hamk.fi).  | - [ ] Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
->>>>>>> b913af209190d4ee3dae60bc30bb15cc8080acee
-=======
-
 - Form 6: (Ravindu Dhananjaya): reviews form: - <br> Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - <br> Link to the form (shell.hamk.fi).  | - <br> Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
->>>>>>> 48014f018ba752d1cb00d651fecd003647ad7641
+
 
 
 ---
