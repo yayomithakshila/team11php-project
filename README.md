@@ -99,24 +99,17 @@ List the database tables that are part of your project.
 
 List and describe any forms that have been created as part of your project. Include details about the purpose of each form and any validation logic.
 
-- Form 1: (Yayomi Premathilaka):  User Signin form : Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/register.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - Sign in form is created for a new user to register and become a user. The user can enter first name,last name,email and then enter password.If all the details are correct user registration is successfull. In the php code The script checks if the form is submitted (isset($_POST['submit'])).
+- Form 1: (Yayomi Premathilaka):  User Sign in form <br>  - [ ]  Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/register.php | - [ ] Link to the form (shell.hamk.fi).  | - [ ] Validations Applied and purpose - Sign in form is created for a new user to register and become a user. The user can enter first name,last name,email and then enter password.If all the details are correct user registration is successfull. In the php code The script checks if the form is submitted (isset($_POST['submit'])).
 It retrieves the form data ($first_name, $last_name, $email, $password) and hashes the password using password_hash() for security.JavaScript functions are defined to validate the first name, last name, email, and password fields in real-time.The validateFName(), validateLName(), validateEmail(), and validatePassword() functions check the length and format of the input fields and display error messages if the inputs don't meet the criteria.
 
 - Form 2: (Yayomi Premathilaka):   User login form   : Link to the related code file (github)  - https://github.com/yayomithakshila/team11php-project/blob/main/login.php |    Link to the form (shell.hamk.fi). | Validations Applied and purpose - Login form is created for user to login to the website by entering email and password which is already submitted to the database.Database validate the entered user data and allow the user to do the reservation. In this PHP code, there are two main types of validation applied: server-side validation and client-side validation.For the server side validation the form submittion is used ($_SERVER["REQUEST_METHOD"] == "POST").For the client side two JavaScript functions, validateEmail() and validatePassword(), are defined to validate the email and password fields, respectively. 
 
 - Form 3: (Yayomi Premathilaka): User LOgot form : Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/logout.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - Logout form is to user to logout from the system. The php code is about session management and redirecting the user.
 
-
-
-- Form 2: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
-<<<<<<< HEAD
-- Form 3: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 - Form 4: (Soorya Rasandi): Reservation Form : Link to the related code file (github) - https://github.com/yayomithakshila/team11php-project/blob/main/booking.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - This form is for the user to confirm the booking after logging in to the system.User input name,email.check in date and message is saved in the database. This code is used javascript for the validation like Name Validation (validateName()):,Number of Guests Validation (validateNumGuests()):,Message Validation (validateMessage()):.
 
-=======
-
-- Form 6: (Ravindu Dhananjaya): reviews form: Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the form (shell.hamk.fi).  | Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
->>>>>>> 55d0003bb069980a402f43d7279bbe5e64da3aa8
+- Form 6: (Ravindu Dhananjaya): reviews form: - [ ] Link (github) - https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | - [ ] Link to the form (shell.hamk.fi).  | - [ ] Validations Applied and purpose - Reviews form is created for our customers to submit a review message regarding their experiace and also to rate us. The validateName() function checks if the name input is between 5 and 30 characters long, displaying an error message if it's not. Similarly, the validateContent() function verifies that the review content is between 15 and 100 characters in length.
+>>>>>>> b913af209190d4ee3dae60bc30bb15cc8080acee
 
 
 ---
@@ -125,9 +118,10 @@ It retrieves the form data ($first_name, $last_name, $email, $password) and hash
 
 List any tables that you have created in the project work
 
-- Table 1 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
-- Table 2 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
-- Table 3 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
+- Table 1 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).\
+
+- Table 2 (Ravindu Dhananjaya): review table | Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
+
 
 
 
