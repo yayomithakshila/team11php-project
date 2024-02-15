@@ -133,15 +133,4 @@ if ($result->num_rows > 0) {
 $conn->close();
 ?>
 
-
-
-
-
-
-
-
-
-
-
-
 <?php include 'layout-folder/footer.php'; ?>
