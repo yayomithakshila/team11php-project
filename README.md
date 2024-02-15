@@ -122,7 +122,6 @@ List any tables that you have created in the project work
 
 - Table 2 (Ravindu Dhananjaya): review table | Link  (github)- https://github.com/yayomithakshila/team11php-project/blob/main/reviews.php | Link to the table (shell.hamk.fi).
 
-- Table 3 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
 
 ---
 
