@@ -129,6 +129,7 @@ function validateMessage(){
 }
 
 
+
 //event listerners for real time validation
 
 document.getElementById("name").addEventListener("input", validateName);
