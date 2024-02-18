@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <div class="form-group">
                             <label for="num_guests">Number of Guests</label>
-                            <input type="number" class="form-control" id="num_guests" name="num_guests" required min="4" max="10">
+                            <input type="number" class="form-control" id="num_guests" name="num_guests" required min="1" max="10">
                             <span id="num_guestsError"></span>
                         </div>
                         <div class="form-group">
@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         const num_guestsError = document.getElementById("num_guestsError");
 
         if (num_guests < 4 || num_guests > 10) {
-            num_guestsError.innerHTML = "Number of guests must be between 1 and 10";
+            num_guestsError.innerHTML = "Number of guests must be between 4 and 10";
             return false;
         } else {
             num_guestsError.innerHTML = "";
