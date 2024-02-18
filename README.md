@@ -43,7 +43,7 @@ Link (github- code files) -
 
 Link (shell.hamk.fi) -
 - [ ] log-in http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/login.php
-- [ ] logout - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/rates.php
+- [ ] logout(logout is on the dropdown menu of the login) - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/rates.php
 - [ ] sign in - http://shell.hamk.fi/~yayomi23000/WEBProgramming/team11php-project/register.php
 
 
