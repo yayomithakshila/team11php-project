@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <div class="form-group">
                             <label for="num_guests">Number of Guests</label>
-                            <input type="number" class="form-control" id="num_guests" name="num_guests" required min="1" max="10">
+                            <input type="number" class="form-control" id="num_guests" name="num_guests" required min="4" max="10">
                             <span id="num_guestsError"></span>
                         </div>
                         <div class="form-group">
